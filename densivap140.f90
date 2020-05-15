@@ -42,13 +42,10 @@ character(40) :: forma
 print *
 print *, "####################################################################"
 print *
-print *, " DENSIVAP v.1.4.0 - 30 DEZ 2015 by P. Miranda"
+print *, " DENSIVAP v.1.4.0 - 30 DEZ 2015 "
 print *
 print *, " CALCULADOR DE DENSIDADE DO VAPOR DE AGUA"
 print * 
-print *, " FORCA AEREA PORTUGUESA"
-print *, " CIMFA - CENTRO DE INFORMACAO METEOROLOGICA DA FORCA AEREA"
-print *, " CFMTFA - NÚCLEO DE METEOROLOGIA"
 
 do
 	print *, "####################################################################"
